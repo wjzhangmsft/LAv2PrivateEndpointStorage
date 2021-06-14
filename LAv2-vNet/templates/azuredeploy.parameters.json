@@ -68,7 +68,7 @@
             "value": true
         },
         "storageAccountAllowBlobPublicAccess": {
-            "value": true
+            "value": false
         },
         "storageAccountAllowSharedKeyAccess": {
             "value": true
