@@ -94,7 +94,6 @@
                 "supportsHttpsTrafficOnly": "[parameters('storageAccountSupportsHttpsTrafficOnly')]",
                 "allowBlobPublicAccess": "[parameters('storageAccountAllowBlobPublicAccess')]",
                 "allowSharedKeyAccess": "[parameters('storageAccountAllowSharedKeyAccess')]",
-                "publicAccess": "None",
                 "networkAcls": {
                     "bypass": "[parameters('storageAccountNetworkAclsBypass')]",
                     "defaultAction": "[parameters('storageAccountNetworkAclsDefaultAction')]",
